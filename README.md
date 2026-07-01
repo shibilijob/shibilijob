@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Muhammed Shibili
 
-### 🚀 Full Stack MERN Developer | Problem Solver | SaaS Builder
+### Full Stack MERN Developer | Problem Solver | SaaS Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Building+Real-World+SaaS+Products;LeetCode+Problem+Solver;Always+Learning+New+Technologies" />
 
